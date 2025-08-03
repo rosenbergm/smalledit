@@ -23,4 +23,4 @@ Information about all features of Smalledit can be found in the [User manual](do
 
 [Official specification](docs/SPEC.md)
 
-[Developer documentation](...)
+[Developer documentation](https://rosenbergm.github.io/smalledit/)
