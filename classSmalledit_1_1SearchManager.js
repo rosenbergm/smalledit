@@ -1,7 +1,6 @@
 var classSmalledit_1_1SearchManager =
 [
     [ "SearchManager", "classSmalledit_1_1SearchManager.html#a6d9f3c4d7a31ac8de5c894afb5823054", null ],
-    [ "ClearHighlights", "classSmalledit_1_1SearchManager.html#ae69a216cd68a760351a75dc17afe033d", null ],
     [ "FindNext", "classSmalledit_1_1SearchManager.html#a5e6d614f1dc1613101afa7123b916c27", null ],
     [ "HighlightText", "classSmalledit_1_1SearchManager.html#ab902c40d066fe70763db8ea36e5ebad3", null ],
     [ "MoveCursorToPosition", "classSmalledit_1_1SearchManager.html#a114f1e2470c298faf7e2c9bb3064cb09", null ],

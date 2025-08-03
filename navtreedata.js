@@ -36,14 +36,13 @@ var NAVTREE =
         [ "Interface Elements", "md_docs_MANUAL.html#autotoc_md11", null ],
         [ "Keyboard Shortcuts", "md_docs_MANUAL.html#autotoc_md12", null ],
         [ "File Status", "md_docs_MANUAL.html#autotoc_md13", null ]
-      ] ],
-      [ "About", "md_docs_MANUAL.html#autotoc_md14", null ]
+      ] ]
     ] ],
     [ "SPEC", "md_docs_SPEC.html", null ],
     [ "Smalledit", "md_README.html", [
-      [ "Before you install", "md_README.html#autotoc_md16", null ],
-      [ "Running the app", "md_README.html#autotoc_md17", [
-        [ "Other links", "md_README.html#autotoc_md18", null ]
+      [ "Before you install", "md_README.html#autotoc_md15", null ],
+      [ "Running the app", "md_README.html#autotoc_md16", [
+        [ "Other links", "md_README.html#autotoc_md17", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [
@@ -75,7 +74,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "BottomStatusBar_8cs.html",
-"classSmalledit_1_1Utils_1_1TextEditor.html#ac464e0e6185d6d6894e25d75d9a511b3"
+"classes.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
