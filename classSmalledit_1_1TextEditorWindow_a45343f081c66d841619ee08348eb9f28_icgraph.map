@@ -1,0 +1,5 @@
+<map id="Smalledit.TextEditorWindow.UpdateStatusBar" name="Smalledit.TextEditorWindow.UpdateStatusBar">
+<area shape="rect" id="node1" title="Updates the status bar with current file info, text stats, and cursor position." alt="" coords="517,35,725,75"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#a4fdfc1c9a06228a8aa12c64a786d2a35" title="Loads a file on editor startup." alt="" coords="261,5,469,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1TextEditorWindow.html#af6a12e32e3e34173196ec93edf960ff7" title="Initializes a new text editor window with optional file to load." alt="" coords="5,35,213,75"/>
+</map>

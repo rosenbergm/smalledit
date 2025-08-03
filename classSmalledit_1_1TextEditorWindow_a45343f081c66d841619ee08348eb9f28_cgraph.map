@@ -1,0 +1,4 @@
+<map id="Smalledit.TextEditorWindow.UpdateStatusBar" name="Smalledit.TextEditorWindow.UpdateStatusBar">
+<area shape="rect" id="node1" title="Updates the status bar with current file info, text stats, and cursor position." alt="" coords="5,5,213,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1Utils.html#a36a9439ae52983ab3fb922839566a42b" title=" " alt="" coords="261,5,444,45"/>
+</map>

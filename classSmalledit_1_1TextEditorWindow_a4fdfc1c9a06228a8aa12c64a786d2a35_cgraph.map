@@ -1,0 +1,9 @@
+<map id="Smalledit.TextEditorWindow.LoadInitialFile" name="Smalledit.TextEditorWindow.LoadInitialFile">
+<area shape="rect" id="node1" title="Loads a file on editor startup." alt="" coords="5,127,213,167"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1FileManager.html#afb3418f332279295a697b40a6296af55" title="Marks the current file as having unsaved changes." alt="" coords="271,5,475,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1FileManager.html#a9484c53921062531b52880f25c05cae1" title="Marks the current file as saved (no unsaved changes)" alt="" coords="271,69,475,109"/>
+<area shape="rect" id="node4" href="$classSmalledit_1_1FileManager.html#aee044bde645438180340a1e1a69041ed" title="Resets state for creating a new file." alt="" coords="261,134,484,159"/>
+<area shape="rect" id="node5" href="$classSmalledit_1_1FileManager.html#aec7be76b505d6644e112826907057935" title="Sets the current file path without loading content." alt="" coords="277,184,469,224"/>
+<area shape="rect" id="node6" href="$classSmalledit_1_1TextEditorWindow.html#a45343f081c66d841619ee08348eb9f28" title="Updates the status bar with current file info, text stats, and cursor position." alt="" coords="269,248,477,288"/>
+<area shape="rect" id="node7" href="$classSmalledit_1_1Utils.html#a36a9439ae52983ab3fb922839566a42b" title=" " alt="" coords="532,248,715,288"/>
+</map>

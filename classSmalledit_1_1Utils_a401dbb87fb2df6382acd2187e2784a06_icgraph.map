@@ -1,0 +1,5 @@
+<map id="Smalledit.Utils.GenerateSimpleLineNumbers" name="Smalledit.Utils.GenerateSimpleLineNumbers">
+<area shape="rect" id="node1" title=" " alt="" coords="492,5,675,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1Utils.html#a0ebc6da203a0ce1acfcc0ef3c5a9c5e8" title="Generates line numbers for a text view with support for word wrapping." alt="" coords="261,5,444,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1TextEditorWindow.html#affc1ca8018ca9dbd3ffa52bdac0ce791" title="Updates the line numbers display based on current text and scroll position." alt="" coords="5,5,213,45"/>
+</map>

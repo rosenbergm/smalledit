@@ -1,0 +1,4 @@
+<map id="Smalledit.TextEditorWindow.ShowAbout" name="Smalledit.TextEditorWindow.ShowAbout">
+<area shape="rect" id="node1" title="Shows the about dialog with application information." alt="" coords="261,5,469,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#af6a12e32e3e34173196ec93edf960ff7" title="Initializes a new text editor window with optional file to load." alt="" coords="5,5,213,45"/>
+</map>

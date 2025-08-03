@@ -1,0 +1,4 @@
+<map id="Smalledit.FileManager.SaveAsFile" name="Smalledit.FileManager.SaveAsFile">
+<area shape="rect" id="node1" title="Saves content to a new file path using save dialog." alt="" coords="5,5,208,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1FileManager.html#a9484c53921062531b52880f25c05cae1" title="Marks the current file as saved (no unsaved changes)" alt="" coords="256,5,460,45"/>
+</map>

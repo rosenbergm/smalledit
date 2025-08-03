@@ -1,0 +1,4 @@
+<map id="Smalledit.TextEditorWindow.Quit" name="Smalledit.TextEditorWindow.Quit">
+<area shape="rect" id="node1" title="Handles application quit with unsaved changes protection." alt="" coords="5,13,240,38"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#acde3a9553e7bb6f49a72985ec3b5a76a" title="Saves the current file." alt="" coords="288,5,496,45"/>
+</map>

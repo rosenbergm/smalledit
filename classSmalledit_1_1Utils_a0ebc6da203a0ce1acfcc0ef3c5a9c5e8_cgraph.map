@@ -1,0 +1,6 @@
+<map id="Smalledit.Utils.GenerateLineNumbers" name="Smalledit.Utils.GenerateLineNumbers">
+<area shape="rect" id="node1" title="Generates line numbers for a text view with support for word wrapping." alt="" coords="5,55,188,95"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1Utils.html#aeadac3cbe7bd66f5412782c1506078e8" title="Counts lines without splitting the entire string." alt="" coords="255,5,450,31"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1Utils.html#a3aea5e8e9fb27effd86e1186acd2dcef" title="Optimized line number generation for word wrap that avoids expensive calculations." alt="" coords="236,55,469,95"/>
+<area shape="rect" id="node4" href="$classSmalledit_1_1Utils.html#a401dbb87fb2df6382acd2187e2784a06" title=" " alt="" coords="261,119,444,159"/>
+</map>

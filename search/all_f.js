@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['save_0',['Save',['../classSmalledit_1_1QuitDialog.html#a6592200c86c038d0e198667302c4fc34ac9cc8cce247e49bae79f15173ce97354',1,'Smalledit::QuitDialog']]],
+  ['saveasfile_1',['SaveAsFile',['../classSmalledit_1_1FileManager.html#a669496cf28b15f691f0af508d768b8ba',1,'Smalledit.FileManager.SaveAsFile()'],['../classSmalledit_1_1TextEditorWindow.html#a82444bd087da50d46d767a613c35fc55',1,'Smalledit.TextEditorWindow.SaveAsFile()']]],
+  ['savefile_2',['SaveFile',['../classSmalledit_1_1FileManager.html#a987c83b4b687f011d9d24c4ab2cacdc1',1,'Smalledit.FileManager.SaveFile()'],['../classSmalledit_1_1TextEditorWindow.html#acde3a9553e7bb6f49a72985ec3b5a76a',1,'Smalledit.TextEditorWindow.SaveFile()']]],
+  ['scrollbar_5fwidth_3',['SCROLLBAR_WIDTH',['../classSmalledit_1_1Utils_1_1Layout.html#a23abe2caa512e3bf1400e1f665b805d0',1,'Smalledit::Utils::Layout']]],
+  ['searchmanager_4',['SearchManager',['../classSmalledit_1_1SearchManager.html#a6d9f3c4d7a31ac8de5c894afb5823054',1,'Smalledit::SearchManager']]],
+  ['searchmanager_5',['searchManager',['../classSmalledit_1_1TextEditorWindow.html#a93f7e7302206670123ccde7186d82ca7',1,'Smalledit::TextEditorWindow']]],
+  ['searchmanager_6',['SearchManager',['../classSmalledit_1_1SearchManager.html',1,'Smalledit']]],
+  ['searchmanager_2ecs_7',['SearchManager.cs',['../SearchManager_8cs.html',1,'']]],
+  ['searchterm_8',['SearchTerm',['../classSmalledit_1_1FindDialog.html#aa1eb7af5916d80e35942fd12e0c58445',1,'Smalledit::FindDialog']]],
+  ['selectalltext_9',['SelectAllText',['../classSmalledit_1_1TextEditorWindow.html#a98940a968ff5505a33bb2112eb02fb9d',1,'Smalledit::TextEditorWindow']]],
+  ['setcolorscheme_10',['SetColorScheme',['../classSmalledit_1_1BottomStatusBar.html#afb9da66c681765da4211d0fbea00e488',1,'Smalledit::BottomStatusBar']]],
+  ['setfilepath_11',['SetFilePath',['../classSmalledit_1_1FileManager.html#aec7be76b505d6644e112826907057935',1,'Smalledit::FileManager']]],
+  ['setterminalcursorstyle_12',['SetTerminalCursorStyle',['../classSmalledit_1_1Utils.html#a208400f892c343017408a161c8838d66',1,'Smalledit::Utils']]],
+  ['showabout_13',['ShowAbout',['../classSmalledit_1_1TextEditorWindow.html#a93b285e102fac2a24ab21595b687ac77',1,'Smalledit::TextEditorWindow']]],
+  ['showfinddialog_14',['ShowFindDialog',['../classSmalledit_1_1SearchManager.html#aa931ca0ac44af8b4031407f3a3e295ec',1,'Smalledit::SearchManager']]],
+  ['smalledit_15',['Smalledit',['../md_README.html',1,'(Global Namespace)'],['../namespaceSmalledit.html',1,'Smalledit']]],
+  ['smalledit_20_2d_20docs_16',['Smalledit - Docs',['../index.html',1,'']]],
+  ['smalledit_20user_20manual_17',['Smalledit User Manual',['../md_docs_MANUAL.html',1,'']]],
+  ['spec_18',['SPEC',['../md_docs_SPEC.html',1,'']]],
+  ['spec_2emd_19',['SPEC.md',['../SPEC_8md.html',1,'']]],
+  ['statsvalid_20',['statsValid',['../classSmalledit_1_1TextEditorWindow.html#ac87908639262bebe973bc0491aa187e0',1,'Smalledit::TextEditorWindow']]],
+  ['status_5fbar_5fheight_21',['STATUS_BAR_HEIGHT',['../classSmalledit_1_1Utils_1_1Layout.html#ad9b2fb12b7732054679fd26e70d28310',1,'Smalledit::Utils::Layout']]],
+  ['statusbar_22',['statusBar',['../classSmalledit_1_1TextEditorWindow.html#aee7edf9a84d3341d58a0c829d7d46a7a',1,'Smalledit::TextEditorWindow']]],
+  ['statuslabel_23',['statusLabel',['../classSmalledit_1_1BottomStatusBar.html#a3a36c21ca5d655f9e1e7527cf9538b9d',1,'Smalledit::BottomStatusBar']]]
+];

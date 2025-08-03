@@ -1,0 +1,5 @@
+<map id="Smalledit.TextEditorWindow.SaveFile" name="Smalledit.TextEditorWindow.SaveFile">
+<area shape="rect" id="node1" title="Saves the current file." alt="" coords="544,23,752,63"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#aaf4b9ef6d57618c0e6296948fc0a7bba" title="Handles application quit with unsaved changes protection." alt="" coords="261,5,496,31"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1TextEditorWindow.html#af6a12e32e3e34173196ec93edf960ff7" title="Initializes a new text editor window with optional file to load." alt="" coords="5,23,213,63"/>
+</map>

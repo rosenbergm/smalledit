@@ -1,0 +1,5 @@
+<map id="Smalledit.BottomStatusBar.BottomStatusBar" name="Smalledit.BottomStatusBar.BottomStatusBar">
+<area shape="rect" id="node1" title="Initializes a new status bar at the bottom of the window." alt="" coords="5,5,208,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1BottomStatusBar.html#a913911e55472d989306e7fc43a3aa289" title="Updates the complete status bar text display." alt="" coords="256,5,459,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1Utils.html#a6eccfe94b269dc3049927f0e2e57972b" title="Gets a safe file name for display purposes." alt="" coords="507,5,701,45"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Smalledit.TextEditorWindow.OpenFile" name="Smalledit.TextEditorWindow.OpenFile">
+<area shape="rect" id="node1" title="Opens an existing file using file dialog." alt="" coords="261,5,469,45"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#af6a12e32e3e34173196ec93edf960ff7" title="Initializes a new text editor window with optional file to load." alt="" coords="5,5,213,45"/>
+</map>

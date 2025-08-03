@@ -1,0 +1,7 @@
+<map id="Smalledit.BottomStatusBar.UpdateStatusText" name="Smalledit.BottomStatusBar.UpdateStatusText">
+<area shape="rect" id="node1" title="Updates the complete status bar text display." alt="" coords="256,101,459,141"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1BottomStatusBar.html#a0a043eb714bf5d5822f597a0d73147ff" title="Initializes a new status bar at the bottom of the window." alt="" coords="5,5,208,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1BottomStatusBar.html#a1dc312e957d387dc4cc8f24408fda567" title="Updates the file information display." alt="" coords="5,69,208,109"/>
+<area shape="rect" id="node4" href="$classSmalledit_1_1BottomStatusBar.html#ad59ec8fb7102b744c847f76c4cb99032" title="Updates the cursor position display." alt="" coords="5,133,208,173"/>
+<area shape="rect" id="node5" href="$classSmalledit_1_1BottomStatusBar.html#a04e4fbea7fbe424a97d1323649f5b0b3" title="Updates text statistics (characters, words, lines)" alt="" coords="5,197,208,237"/>
+</map>

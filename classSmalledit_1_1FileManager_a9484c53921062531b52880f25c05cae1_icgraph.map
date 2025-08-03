@@ -1,0 +1,7 @@
+<map id="Smalledit.FileManager.MarkAsSaved" name="Smalledit.FileManager.MarkAsSaved">
+<area shape="rect" id="node1" title="Marks the current file as saved (no unsaved changes)" alt="" coords="536,69,740,109"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1TextEditorWindow.html#a4fdfc1c9a06228a8aa12c64a786d2a35" title="Loads a file on editor startup." alt="" coords="280,5,488,45"/>
+<area shape="rect" id="node4" href="$classSmalledit_1_1FileManager.html#a669496cf28b15f691f0af508d768b8ba" title="Saves content to a new file path using save dialog." alt="" coords="283,69,485,109"/>
+<area shape="rect" id="node5" href="$classSmalledit_1_1FileManager.html#a987c83b4b687f011d9d24c4ab2cacdc1" title="Saves content to the current file path." alt="" coords="5,105,232,130"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1TextEditorWindow.html#af6a12e32e3e34173196ec93edf960ff7" title="Initializes a new text editor window with optional file to load." alt="" coords="15,5,223,45"/>
+</map>
