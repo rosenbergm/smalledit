@@ -75,7 +75,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "BottomStatusBar_8cs.html",
-"classSmalledit_1_1Utils_1_1TextEditor.html#a3ac6cecf3fdbf994741645be31be0615"
+"classSmalledit_1_1Utils_1_1TextEditor.html#ac464e0e6185d6d6894e25d75d9a511b3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

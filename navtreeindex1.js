@@ -1,9 +1,7 @@
 var NAVTREEINDEX1 =
 {
-"classSmalledit_1_1Utils_1_1TextEditor.html#a3ac6cecf3fdbf994741645be31be0615":[5,0,0,7,1,1],
-"classSmalledit_1_1Utils_1_1TextEditor.html#a3ac6cecf3fdbf994741645be31be0615":[4,0,0,7,1,1],
-"classSmalledit_1_1Utils_1_1TextEditor.html#ac464e0e6185d6d6894e25d75d9a511b3":[5,0,0,7,1,0],
 "classSmalledit_1_1Utils_1_1TextEditor.html#ac464e0e6185d6d6894e25d75d9a511b3":[4,0,0,7,1,0],
+"classSmalledit_1_1Utils_1_1TextEditor.html#ac464e0e6185d6d6894e25d75d9a511b3":[5,0,0,7,1,0],
 "classes.html":[5,1],
 "dir_49e56c817e5e54854c35e136979f97ca.html":[6,0,0],
 "dir_68267d1309a1af8e8297ef4c3efbcdba.html":[6,0,1],
