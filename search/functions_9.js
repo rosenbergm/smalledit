@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['newfile_0',['NewFile',['../classSmalledit_1_1FileManager.html#aee044bde645438180340a1e1a69041ed',1,'Smalledit.FileManager.NewFile()'],['../classSmalledit_1_1TextEditorWindow.html#ac2f792111535add0f7f2e6f9b193227a',1,'Smalledit.TextEditorWindow.NewFile()']]]
+  ['openfile_0',['OpenFile',['../classSmalledit_1_1FileManager.html#a31a9019dcaf8896bca3bfc01779f3fb2',1,'Smalledit.FileManager.OpenFile()'],['../classSmalledit_1_1TextEditorWindow.html#aae32a7d0d4f7045688fb9301875c5c28',1,'Smalledit.TextEditorWindow.OpenFile()']]]
 ];

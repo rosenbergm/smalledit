@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['hasunsavedchanges_0',['HasUnsavedChanges',['../classSmalledit_1_1FileManager.html#a6a1d4ec9a39023b37112a9c8aa13204b',1,'Smalledit::FileManager']]],
-  ['highlighttext_1',['HighlightText',['../classSmalledit_1_1SearchManager.html#ab902c40d066fe70763db8ea36e5ebad3',1,'Smalledit::SearchManager']]]
+  ['hasunsavedchanges_0',['HasUnsavedChanges',['../classSmalledit_1_1FileManager.html#a6a1d4ec9a39023b37112a9c8aa13204b',1,'Smalledit::FileManager']]]
 ];

@@ -9,6 +9,5 @@ var searchData=
   ['finddialog_6',['FindDialog',['../classSmalledit_1_1FindDialog.html#a86421df350a738271c9b42281c73fa08',1,'Smalledit.FindDialog.FindDialog()'],['../classSmalledit_1_1FindDialog.html',1,'Smalledit.FindDialog']]],
   ['finddialog_2ecs_7',['FindDialog.cs',['../FindDialog_8cs.html',1,'']]],
   ['findnext_8',['FindNext',['../classSmalledit_1_1SearchManager.html#a5e6d614f1dc1613101afa7123b916c27',1,'Smalledit::SearchManager']]],
-  ['findresult_9',['FindResult',['../classSmalledit_1_1FindDialog.html#aa6c39f4e8bb51e87db5be2be8a69bb1e',1,'Smalledit::FindDialog']]],
-  ['found_10',['Found',['../SearchManager_8cs.html#a7f052211da4347a6bc7835f1823cb740',1,'SearchManager.cs']]]
+  ['findresult_9',['FindResult',['../classSmalledit_1_1FindDialog.html#aa6c39f4e8bb51e87db5be2be8a69bb1e',1,'Smalledit::FindDialog']]]
 ];

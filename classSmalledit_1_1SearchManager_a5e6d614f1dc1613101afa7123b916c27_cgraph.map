@@ -1,6 +1,5 @@
 <map id="Smalledit.SearchManager.FindNext" name="Smalledit.SearchManager.FindNext">
-<area shape="rect" id="node1" title="Finds the next occurrence of the last search term." alt="" coords="5,101,197,141"/>
-<area shape="rect" id="node2" href="$classSmalledit_1_1SearchManager.html#ab902c40d066fe70763db8ea36e5ebad3" title="Highlights text at specified position and length." alt="" coords="245,5,437,45"/>
-<area shape="rect" id="node3" href="$classSmalledit_1_1SearchManager.html#a114f1e2470c298faf7e2c9bb3064cb09" title="Moves cursor to specified character position in text." alt="" coords="245,69,437,109"/>
-<area shape="rect" id="node4" href="$classSmalledit_1_1SearchManager.html#aa931ca0ac44af8b4031407f3a3e295ec" title="Shows the find dialog and initiates search if term is entered." alt="" coords="245,133,437,173"/>
+<area shape="rect" id="node1" title="Finds the next occurrence of the last search term." alt="" coords="5,69,197,109"/>
+<area shape="rect" id="node2" href="$classSmalledit_1_1SearchManager.html#a114f1e2470c298faf7e2c9bb3064cb09" title="Moves cursor to specified character position in text." alt="" coords="245,5,437,45"/>
+<area shape="rect" id="node3" href="$classSmalledit_1_1SearchManager.html#aa931ca0ac44af8b4031407f3a3e295ec" title="Shows the find dialog and initiates search if term is entered." alt="" coords="245,69,437,109"/>
 </map>

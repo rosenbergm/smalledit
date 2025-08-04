@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['istextchangingkey_0',['IsTextChangingKey',['../classSmalledit_1_1Utils.html#a1f469018e9b32eca2dcddcec3bbc1401',1,'Smalledit::Utils']]]
+  ['loadinitialfile_0',['LoadInitialFile',['../classSmalledit_1_1TextEditorWindow.html#a4fdfc1c9a06228a8aa12c64a786d2a35',1,'Smalledit::TextEditorWindow']]]
 ];
